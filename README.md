@@ -42,7 +42,7 @@ def execute_handlers(handlers):
 
 ```
 
-[Решение 2 задачи](tasks/2_task.py)
+[Решение 2 задачи](tasks/task_2.py)
 
  - использование переменной 5 в range не очень приемлемо при написании кода. 
 Лучше поместить в атрибут функции.
@@ -54,7 +54,7 @@ def execute_handlers(handlers):
 
 #### Сколько HTML-тегов в коде главной страницы сайта [greenatom.ru](https://greenatom.ru/)? Сколько из них содержит атрибуты? Необходимо написать скрипт на Python, который выводит ответы на вопросы выше.
 
-[Решение 3 задачи](tasks/3_task.py)
+[Решение 3 задачи](tasks/task_3.py)
 
 ---
 
@@ -62,7 +62,7 @@ def execute_handlers(handlers):
 
 #### Написать функцию на Python, которая возвращает текущий публичный IP-адрес компьютера(например, с использованием сервиса ifconfig.me).
 
-[Решение 4 задачи](tasks/4_task.py)
+[Решение 4 задачи](tasks/task_4.py)
 
 ---
 
@@ -75,6 +75,12 @@ def execute_handlers(handlers):
 - Return 1 if version A is newer than version B
 - Each subsection is supposed to be interpreted as a number, therefore 1.10 > 1.1.
 
-[Решение 5 задачи](tasks/5_task.py)
+[Решение 5 задачи](tasks/task_5.py)
+
+---
+
+## Для тестирования нужно перейти по ссылке ниже и запустить скрипт.  
+
+[Тестирование](task/test.py)
 
 ---
